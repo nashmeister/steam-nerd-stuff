@@ -7,4 +7,4 @@ document.getElementsByName("file_type")[0].value = 5;
 document.getElementsByName("image_width")[0].value = 1000;document.getElementsByName("image_height")[0].value = 1;
 
 Workshop Showcase
-$J('#image_width').val('1000');$J('#image_height').val('1');$J('[name="appid"]').val("241100");$J('[name="consumer_app_id"]').val("241100");$J('[name="visibility"]').val("0");$J('[name=file_type]').val('11');
+$J('[name=consumer_app_id]').val(480);$J('[name=file_type]').val(11);$J('[name=visibility]').val(0);
